@@ -3,3 +3,6 @@ adds all to changes to be commited
 
 git rebase
 moves a branch to a new location at the head of another branch
+
+git status
+shows current status of commits 

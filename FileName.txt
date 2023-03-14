@@ -6,3 +6,6 @@ moves a branch to a new location at the head of another branch
 
 git status
 shows current status of commits 
+
+git status
+Displays paths that have differences between the index file and the current HEAD commit

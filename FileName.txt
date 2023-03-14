@@ -1,0 +1,2 @@
+git add -A 
+adds all to changes to be commited
